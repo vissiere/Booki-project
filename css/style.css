@@ -18,8 +18,14 @@ body {
     justify-content: center;
 }
 
+.#one { 
+        border: 10px;
+        border-style: groove;
+        border-color: black;
+    }
 .main-container {
-    display: flex;
+    
+        display: flex;
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
